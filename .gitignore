@@ -1,0 +1,8 @@
+# Your data and settings never leave this machine.
+data/
+config.json
+*.sqlite3
+*.sqlite3-*
+
+__pycache__/
+.DS_Store
